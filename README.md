@@ -17,8 +17,7 @@ This project aims to develop a text classification model to classify SMS message
    - [Feature Extraction](#feature-extraction)
    - [Model Training](#model-training)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+8. [Contact](#contact)
 
 ## Project Description
 
@@ -192,9 +191,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 
